@@ -107,12 +107,17 @@ em, i {
 strong, b {
   font-weight: bold;
 }
+
+table, th, td {
+   border: 1px solid black;
+}
+
 table {
     border-collapse: collapse;
 }
 
 table, th, td {
-    border: 1px solid red;
+    border: 1px solid black;
 }
 img {
   max-width: 100%;
